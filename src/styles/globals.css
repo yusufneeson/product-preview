@@ -11,6 +11,8 @@ html {
 }
 
 body {
+	margin: 0;
+	background-color: var(--cream);
 	font-size: 1.4rem;
 }
 
