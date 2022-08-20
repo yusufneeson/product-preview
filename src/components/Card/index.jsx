@@ -5,10 +5,12 @@ import style from "./card.module.css";
 
 function Card() {
 	return (
-		<div className={style.card}>
-			<CardHead />
-			<CardBody />
-			<CardFoot />
+		<div className={style.container}>
+			<div className={style.card}>
+				<CardHead />
+				<CardBody />
+				<CardFoot />
+			</div>
 		</div>
 	);
 }

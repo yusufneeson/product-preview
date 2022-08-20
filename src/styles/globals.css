@@ -14,9 +14,19 @@ body {
 	margin: 0;
 	background-color: var(--cream);
 	font-size: 1.4rem;
+	font-weight: 500;
 }
 
 h1 {
 	margin: 0;
 	padding: 0;
+	font-family: "Fraunces", serif;
+	color: var(--darkBlue);
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	font-family: "Montserrat", sans-serif;
+	color: var(--grayishBlue);
 }

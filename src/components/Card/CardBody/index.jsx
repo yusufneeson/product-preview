@@ -1,11 +1,11 @@
+import style from "./cardbody.module.css";
+
 function CardBody() {
 	return (
-		<div>
-			<p>
-				A floral, solar and voluptuous interpretation composed by
-				Olivier Polge, Perfumer-Creator for the House of CHANEL.
-			</p>
-		</div>
+		<p className={style.desc}>
+			A floral, solar and voluptuous interpretation composed by Olivier
+			Polge, Perfumer-Creator for the House of CHANEL.
+		</p>
 	);
 }
 

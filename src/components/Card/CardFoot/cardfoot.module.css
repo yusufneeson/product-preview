@@ -1,0 +1,17 @@
+.cardfoot {
+	display: flex;
+	align-items: center;
+	gap: 2rem;
+}
+
+.price {
+	font-weight: 700;
+	color: var(--darkCyan);
+	font-size: 3.7rem;
+	font-family: "Fraunces", serif;
+}
+.discounted {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	color: var(--grayishBlue);
+}

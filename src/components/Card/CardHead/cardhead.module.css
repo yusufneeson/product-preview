@@ -1,0 +1,11 @@
+.title {
+	font-weight: 700;
+	font-size: 3.1rem;
+	letter-spacing: 1px;
+	line-height: 1;
+	margin: 2.8rem 0;
+}
+
+.subtitle {
+	letter-spacing: 4px;
+}
