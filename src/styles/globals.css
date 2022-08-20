@@ -13,3 +13,8 @@ html {
 body {
 	font-size: 1.4rem;
 }
+
+h1 {
+	margin: 0;
+	padding: 0;
+}
