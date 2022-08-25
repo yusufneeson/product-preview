@@ -9,3 +9,9 @@
 .subtitle {
 	letter-spacing: 4px;
 }
+
+@media screen and (max-width: 626px) {
+	.title {
+		margin: 2.1rem 0;
+	}
+}

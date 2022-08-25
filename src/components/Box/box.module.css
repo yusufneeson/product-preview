@@ -1,3 +1,10 @@
 .box {
 	display: flex;
 }
+
+@media screen and (max-width: 626px) {
+	.box {
+		display: block;
+		padding: 1.7rem;
+	}
+}

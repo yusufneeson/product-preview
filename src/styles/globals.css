@@ -6,6 +6,10 @@
 	--white: hsl(0, 0%, 100%);
 }
 
+* {
+	box-sizing: border-box;
+}
+
 html {
 	font-size: 62.5%;
 }

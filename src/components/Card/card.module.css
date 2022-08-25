@@ -8,3 +8,14 @@
 	width: 23.8rem;
 	margin: auto;
 }
+
+@media screen and (max-width: 626px) {
+	.container {
+		width: 34.5rem;
+		padding: 2.9rem 0;
+	}
+
+	.card {
+		width: 29.5rem;
+	}
+}
