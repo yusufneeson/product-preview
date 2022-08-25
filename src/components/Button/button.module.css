@@ -1,0 +1,23 @@
+.button {
+	padding: 1.6rem 6.3rem;
+	border: 0;
+	background-color: var(--darkCyan);
+	border-radius: 0.9rem;
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.4rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	text-decoration: none;
+	transition: all 0.3s ease-in-out;
+}
+
+.button:hover {
+	background-color: #1a4031;
+}
+
+.text {
+	color: var(--white);
+	font-weight: 500;
+}
