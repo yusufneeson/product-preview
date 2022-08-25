@@ -15,3 +15,10 @@
 	font-weight: 500;
 	color: var(--grayishBlue);
 }
+
+.cta {
+	margin-top: 3.2rem;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
