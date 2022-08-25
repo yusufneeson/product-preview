@@ -6,8 +6,8 @@ function CardImage() {
 		<div className={style.cardimage}>
 			<Image
 				src="/images/image-product-desktop.jpg"
-				width={301}
-				height={452}
+				width={302}
+				height={500}
 			/>
 		</div>
 	);
