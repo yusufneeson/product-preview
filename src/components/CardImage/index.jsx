@@ -23,6 +23,7 @@ function CardImage() {
 					width={302}
 					height={500}
 					priority={true}
+					alt="Yusuf Neeson - Frontendmentor Product Preview"
 				/>
 			) : (
 				<Image
@@ -30,6 +31,7 @@ function CardImage() {
 					width={345}
 					height={241}
 					priority={true}
+					alt="Yusuf Neeson - Frontendmentor Product Preview"
 				/>
 			)}
 		</div>
