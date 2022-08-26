@@ -2,6 +2,8 @@
 	background-color: var(--white);
 	width: 30.2rem;
 	padding: 3.7rem 0;
+	border-bottom-right-radius: 1rem;
+	border-top-right-radius: 1rem;
 }
 
 .card {
@@ -13,6 +15,8 @@
 	.container {
 		width: 34.5rem;
 		padding: 2.9rem 0;
+		border-top-right-radius: 0;
+		border-bottom-left-radius: 1rem;
 	}
 
 	.card {
